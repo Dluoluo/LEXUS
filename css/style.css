@@ -40,9 +40,10 @@ li{
     background-image: url(../img/5.jpg);
 }
 #xinxi{
+    display: block !important;
+    padding-top: 62px;
     height: 800px;
     background-image: url(../img/6.jpg);
-    display: block !important;
 }
 .zhong{
     width: 1005px;
@@ -539,10 +540,7 @@ select::-ms-expand { display: none; }
     background-position: -2px -154px;
     right: 50%;
     margin-right: -502px;
-}
-#xinxi{
-    padding-top: 62px;
-}
+}  
 #xinxi .zhong .icon-xinxi{
     height: 50px;
     width: 275px;
