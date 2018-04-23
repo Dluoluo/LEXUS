@@ -40,10 +40,10 @@ li{
     background-image: url(../img/5.jpg);
 }
 #xinxi{
-    display: block !important;
     padding-top: 62px;
     height: 800px;
     background-image: url(../img/6.jpg);
+    width: 100%;
 }
 .zhong{
     width: 1005px;
